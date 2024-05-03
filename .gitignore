@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# VitePress cache
+.vitepress/cache/
+
+# Build output
+.vitepress/dist/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Optional: VSCode settings
+.vscode/
+
+# Script files
+*.py
